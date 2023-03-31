@@ -1,5 +1,5 @@
 
-# Find & Replace in Files on MacOS + zsh 
+# Find And Replace in Files on MacOS + zsh 
 
 This is the best one I have found:
 
